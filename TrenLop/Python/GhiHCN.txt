@@ -1,0 +1,2 @@
+Ten: HCN1	Dai: 10	Rong: 8	Chu vi: 36	Dien tich: 80	
+Ten: HCN2	Dai: 18	Rong: 7	Chu vi: 50	Dien tich: 126	
